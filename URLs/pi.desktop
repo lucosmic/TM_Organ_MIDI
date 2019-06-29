@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Play MIDI With Organ
+Comment=Application which plays a set of chosen MIDI files in succession with the Organ.
+Icon=/usr/share/pixmaps/openbox.xpm
+Exec=python3 /home/pi/MIDIMusic/PMOapp.py
+Type=Application
+Encoding=UTF-8
+Terminal=true
+Categories=None;

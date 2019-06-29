@@ -1,0 +1,34 @@
+Goal:
+make a MIDI playlist / media player for Raspberry Pi
+
+Automatically route "left hand" notes to the pedals
+MIDI Pass-Thru in & out thru Pi (necessary for scanning organ console messages)
+
+Make RPi play generative music with Magenta
+
+Desktop Bkgd to TinkerMill Logo
+
+Done:
+Play Midi With Organ is a basic program 
+that allows multiple file selection and plays the files. 
+
+Installed TiMidity = not what we want
+
+http://www.tldp.org/HOWTO/MIDI-HOWTO-8.html
+
+
+The Status of the Programs:
+player:
+VLC?
+Wriute our own in Python
+
+sequencer:
+rosegarden
+musescore
+
+
+Look into:
+MIDI on PyGame
+https://www.emergentmusics.org/midiutil
+amidi
+mididings
